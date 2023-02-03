@@ -1,11 +1,11 @@
 ---
-title: "Betty Lou Jones" 
-output: html_document
+title: "Betty Jones" 
+output: word_document
 ---
 
 ## Education
 
-----
+---
 
 * **Penn State** (2019 - 2021)
   + Bachelors of Science in Animal Science 
@@ -14,14 +14,17 @@ output: html_document
   
 ## Experience 
 
-----
+---
 
-* **Cheesemaker** *Sunnside Acres* (2021 -2022) 
+* **Cheesemaker** *Sunnyside Acres* (2021 -2022) 
   + Designed cheese flavors for sale in retail store
   + Made 20 wheels of cheese per week 
   + Assured food safety procedures were followed 
 
 * **Dairy Farm Worker** *Penn State Dairy Barns* (2018 - 2021)
-
+  + Feed calves 
+  + Milk cows
+  + Be happy
+  
 
   
