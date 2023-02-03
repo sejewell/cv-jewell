@@ -16,7 +16,7 @@ output: html_document
 
 ---
 
-* **Cheesemaker** *Sunnyside Acres* (2021/2022) 
+* **Cheesemaker** *Sunnyside Acres* (2021 - 2022) 
   + Designed cheese flavors for sale in retail store
   + Made 20 wheels of cheese per week 
   + Assured food safety procedures were followed 
