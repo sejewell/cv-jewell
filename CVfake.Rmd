@@ -1,0 +1,9 @@
+---
+title: "Betty Lou Jones" 
+output: pdf_document
+---
+
+#Education 
+
+* **Penn State** (2017 - 2021)
+  + Bachelors of Science in Animal Science 
